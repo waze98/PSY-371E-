@@ -2,7 +2,7 @@
 Psychological Data Science I
 
 # markdown sheet cheat!
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[Cheat Sheet Here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## Italic
 *camelCase*
@@ -24,9 +24,16 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 ## subscript
 This is a <sub>subscript</sub> text
 
+## superscript
+This is a <sup>superscript</sup> text
+
 ## render a table
 This | is | a | table | header |
 | --- | --- | --- | --- | --- |
 | this | is | the | table's | content |
 | More | content | is | shown | here |
 
+## Quote a text
+Text that is not a quote
+
+> Text that is a quote
