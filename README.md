@@ -11,10 +11,11 @@ Psychological Data Science I
 # Bold
 **Text**
 
-# Strikethrough
+# strikethrough
+~~This was a mistaken text~~
 
-# Bold and nested italic
-**This text is** and _extremely_ **important**
+# bold and nested italic
+**This text is** _extremely_ **important**
 
 # all bold and italic
 ***All this text is important***
