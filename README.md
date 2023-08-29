@@ -1,2 +1,2 @@
-# PSY-371E-
+# PSY-371E
 Psychological Data Science I
